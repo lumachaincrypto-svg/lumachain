@@ -12,7 +12,7 @@ All contracts are verified, team and treasury allocations are locked on-chain, a
 - **Total Supply:** 300,000,000 LUMA
 - **Decimals:** 18
 - **Circulating Target:** 70% (progressive and transparent release)
-- **Liquidity Pools:** SushiSwap (active)  
+- **Liquidity Pools:** UniSwap (active)  
 - **Renounced Ownership:** ✅ Yes  
 - **Verified Contract:** ✅ PolygonScan verified
 
@@ -40,7 +40,7 @@ To ensure data transparency for aggregators (CoinMarketCap, CoinGecko, etc.), Lu
 ## ⚙️ DEX Markets
 | Platform | Pair | Explorer Link |
 |-----------|------|----------------|
-| SushiSwap (Polygon) | LUMA / USDC | [View on DexScreener](https://dexscreener.com/polygon/0xebad4840bf2a7eeeb64918bb71f48ab9db4400ce) |
+| UniSwap (Polygon) | LUMA / USDC | [View on DexScreener](https://dexscreener.com/polygon/0xebad4840bf2a7eeeb64918bb71f48ab9db4400ce) |
 
 ---
 
